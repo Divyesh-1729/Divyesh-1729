@@ -9,18 +9,18 @@
 
 🧑‍💻 About Me
 
-🌱 Currently learning: Docker,AI/ML, System Design </hr>
-💬 Sharpening my DSA problem-solving skills in C++ </hr>
-🚀 Built full-stack MERN stack projects </hr>
-🤖 Exploring Supervised & Unsupervised Machine Learning </hr>
-📫 Reach me at: divyeshpuranik@gmail.com </hr>
+🌱 Currently learning: Docker,AI/ML, System Design </br>
+💬 Sharpening my DSA problem-solving skills in C++ </br>
+🚀 Built full-stack MERN stack projects </br>
+🤖 Exploring Supervised & Unsupervised Machine Learning </br>
+📫 Reach me at: divyeshpuranik@gmail.com </br>
 
 
 🏆 Competitive Programming
 <p align="center">
   <!-- LeetCode Stats -->
-  <a href="https://leetcode.com/Humanshulse/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Humanshulse?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/divyesh_puranik1729/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/divyesh_puranik1729?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 <p align="center">
