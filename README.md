@@ -38,7 +38,7 @@
 </p>
 🌐 Web & Full Stack (MERN)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,tailwind&theme=dark" />
 </p>
 🗄️ Databases
 <p align="left">
