@@ -46,6 +46,15 @@
   &nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
+API & Services
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Multer-FF6C37?style=for-the-badge&logo=node.js&logoColor=white" />
+
+</p>
 🤖 AI / ML Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
