@@ -9,11 +9,11 @@
 
 🧑‍💻 About Me
 
-🌱 Currently learning: Docker,AI/ML, System Design
-💬 Sharpening my DSA problem-solving skills in C++
-🚀 Built full-stack MERN stack projects
-🤖 Exploring Supervised & Unsupervised Machine Learning
-📫 Reach me at: divyeshpuranik@gmail.com
+🌱 Currently learning: Docker,AI/ML, System Design </hr>
+💬 Sharpening my DSA problem-solving skills in C++ </hr>
+🚀 Built full-stack MERN stack projects </hr>
+🤖 Exploring Supervised & Unsupervised Machine Learning </hr>
+📫 Reach me at: divyeshpuranik@gmail.com </hr>
 
 
 🏆 Competitive Programming
