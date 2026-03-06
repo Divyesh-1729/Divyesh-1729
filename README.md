@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Humanshu Ise</h1>
-<h3 align="center">Pre-Final Year Computer Engineering Student @ PICT, Pune 🎓</h3>
+<h1 align="center">Hi 👋, I'm Divyesh Puranik</h1>
+<h3 align="center">Pre-Final Year Computer Engineering Student @ D.Y Patil Institute of Technology, Pimpri, Pune 🎓</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Humanshulse&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/Humanshulse?tab=followers">
@@ -9,11 +9,11 @@
 
 🧑‍💻 About Me
 
-🌱 Currently learning: Docker, Redis, FastAPI, WebSockets, AI/ML
+🌱 Currently learning: Docker,AI/ML, System Design
 💬 Sharpening my DSA problem-solving skills in C++
 🚀 Built full-stack MERN stack projects
 🤖 Exploring Supervised & Unsupervised Machine Learning
-📫 Reach me at: humanshu1745@gmail.com
+📫 Reach me at: divyeshpuranik@gmail.com
 
 
 🏆 Competitive Programming
@@ -25,17 +25,10 @@
 </p>
 <p align="center">
   <!-- LeetCode Badge -->
-  <a href="https://leetcode.com/Humanshulse/" target="_blank">
+  <a href="https://leetcode.com/divyesh_puranik1729/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <!-- CodeChef Badge -->
-  <a href="https://www.codechef.com/users/humanshulse" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <!-- Codeforces Badge -->
-  <a href="https://codeforces.com/profile/Humanshulse" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+  
 </p>
 
 🛠️ Languages & Technologies
@@ -98,22 +91,19 @@ Create .github/workflows/snake.yml with the snake workflow
 
 🤝 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/Humanshulse" target="_blank">
+  <a href="https://twitter.com/dpbro1729" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/Humanshulse" target="_blank">
+  <a href="https://linkedin.com/in/divyesh-puranik-31b383338" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/humanshulse" target="_blank">
+  <a href="https://www.codechef.com/usersdivyeshpuranik" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Humanshulse" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Humanshulse/" target="_blank">
+  <a href="https://leetcode.com/divyesh_puranik1729/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:humanshu1745@gmail.com">
+  <a href="mailto:divyeshpuranik@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
