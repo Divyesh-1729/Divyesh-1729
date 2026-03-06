@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyesh Puranik</h1>
 <h3 align="center">Pre-Final Year Computer Engineering Student @ D.Y Patil Institute of Technology, Pimpri, Pune 🎓</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Humanshulse&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/Humanshulse?tab=followers">
-    <img src="https://img.shields.io/github/followers/Humanshulse?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Divyesh-1729&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Divyesh-1729?tab=followers">
+    <img src="https://img.shields.io/github/followers/Divyesh-1729?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
